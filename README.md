@@ -1,2 +1,2 @@
 # Nonlinear-FEA
-The source of my ME280B final project
+The source code of my ME280B final project
